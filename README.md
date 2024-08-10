@@ -7,7 +7,7 @@ A workout tracking API project that records exercise data, including duration an
 ## Features
 
 - Records exercise details such as name, duration, and calories burned.
-- Utilizes the Nutritionix API to process exercise input.
+- Utilizes the Nutritionix API (A natural language processing API) to process exercise input.
 - Logs exercise data to a Google Sheet via Sheety.
 
 ## Requirements

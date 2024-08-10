@@ -1,4 +1,4 @@
-# Workout Tracking API
+# Workout Tracker
 
 ## Description
 

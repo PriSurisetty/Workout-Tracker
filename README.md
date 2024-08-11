@@ -8,10 +8,6 @@ A workout tracking API project that records exercise data, including duration an
 [Watch the video](https://github.com/user-attachments/assets/ce531c4d-17be-495f-9c04-f2031df2c1a6)
 
 
-![Workout-Tracker-Recording-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/205bf5b1-2a89-4a7f-a7b9-6e03b64f09bf)
-
-
-
 ## Features
 
 - Records exercise details such as name, duration, and calories burned.

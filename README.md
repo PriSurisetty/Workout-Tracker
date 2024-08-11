@@ -4,6 +4,11 @@
 
 A workout tracking API project that records exercise data, including duration and calories burned, by integrating with the Nutritionix API and logs the data using Sheety.
 
+
+[Watch the video](https://github.com/user-attachments/assets/ce531c4d-17be-495f-9c04-f2031df2c1a6)
+
+
+
 ## Features
 
 - Records exercise details such as name, duration, and calories burned.
